@@ -1,4 +1,5 @@
 # React + Vite
+Modern UI/UX website, developed using React.js and Tailwind CSS. Its sleek design, seamless animations.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
